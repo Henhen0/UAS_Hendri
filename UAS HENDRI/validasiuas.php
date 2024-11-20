@@ -60,10 +60,7 @@
                     <td align='center' colspan='3'><h3>Struk Gaji</h3></td>
                 </tr>
             <tr>
-                    <td align='center' colspan='3' style='background-color: E8EBEA;''>$nama</td>
-                </tr>
-                 <tr>
-                    <td align='center' colspan='3' style='background-color: E8EBEA;''>Primary Card Title</td>
+                    <td align='center' colspan='3' style='background-color: E8EBEA;''><h3> $nama </h3></td>
                 </tr>
                 <tr><td></td></tr>
 
